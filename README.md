@@ -1,13 +1,16 @@
 # Yo! I'm Zenquessence 🎨💻
 
-Just another human trying to bridge the gap between pixels and code. I'm a beginner on GitHub, but I've been playing with designs for a while now.
+Just a regular human trying to connect pixels and code.
+Still a GitHub newbie, but I’ve been messing around with design for quite a while.
 
-**Currently in "Learning Mode":**
-- **Design:** Experimenting with layout, typography, and brand vibes.
-- **Code:** Breaking things until they work (aka learning to program).
+**Currently in full “Learning Mode”** 🚀
 
----
+**Design**: Playing with layouts, typography, and overall brand vibes.
 
-> "Design is how it works, and Code is how we build it." 
+**Code**: Breaking stuff until it finally works (that’s how I learn 😅).
 
-I'm always open to feedback or collaboration. Let's build something cool!
+“Design is how it works,
+Code is how we build it.”
+
+Always open to feedback, ideas, or collaborations.
+Let’s build something cool together 🔥
