@@ -1,4 +1,4 @@
-# Yo! I'm Zenquessence 🎨💻
+# Yo! I'm zenquessence 🎨💻
 
 Just a regular human trying to connect pixels and code.
 Still a GitHub newbie, but I’ve been messing around with design for quite a while.
